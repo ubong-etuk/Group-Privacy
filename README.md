@@ -3,7 +3,7 @@ This research presents PriSAT as a tool for investigating group privacy. The Pri
 
 Given a group of interacting users and a specific privacy requirements for the group, the following steps are required in using the PriSAT tool to analyze the extent to which the  group satisfies the privacy requirements. 
 
-**Step 1**: Start the tool. This displays the different interfaces that constitute the tool. 
+**Step 1**: Start the tool. Import the application into Eclipse IDE and download the required libraries. Build and Run the application and it will displays the different interfaces that constitute the tool. 
 ![image](https://github.com/user-attachments/assets/d234a90e-af38-4598-8fea-3f64fc70e646)
 
 **Step 2**:  Configure the group under consideration. This involves generating an interaction network of users and assigning disclosure protocols to each interact between the users in the network.
