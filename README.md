@@ -1,7 +1,7 @@
 # Group-Privacy Analysis
-This research presents PriSAT as a tool for investigating group privacy. The PriSAT tool is designed for analyzing privacy satisfaction in software design. It is implemented in Java programming language and utilizes an epistemic modal logic approach for privacy analysis. The tool allows for various forms of privacy analyses, one of which is group privacy requirements analysis. 
+This research presents PriSAT as a tool for investigating group privacy. The PriSAT tool is designed for analyzing privacy satisfaction in software design. It is implemented in Java programming language and utilizes an epistemic modal logic approach for privacy analysis. The tool allows for various forms of privacy analyses, one of which is group privacy requirements satisfaction analysis. 
 
-In terms of group privacy, the following six steps are required in using the PriSAT tool to analyze the extent to which a given group of interacting users satisfies a specific instance of  privacy requirements for the group. 
+Given a group of interacting users and a specific privacy requirements for the group, the following steps are required in using the PriSAT tool to analyze the extent to which the  group satisfies the privacy requirements. 
 
 **Step 1**: Start the tool. This displays the different interfaces that constitute the tool. 
 ![image](https://github.com/user-attachments/assets/d234a90e-af38-4598-8fea-3f64fc70e646)
