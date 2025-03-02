@@ -19,6 +19,6 @@ In terms of group privacy, the following six steps are required in using the Pri
 **Step 5**: Verify the privacy requirements satisfaction . This step initiates the analysis that determines the extent the configured group in Step 1 satisfies the selected instance of privacy requirements in Step 4.
 ![image](https://github.com/user-attachments/assets/2a2d55e3-607f-43e6-b02b-2a862b16d856)
 
-**Step 6**:  Display the requirements satisfaction outcome (see example in  Figure	\ref{pstep6} ). This step displays the outcome of requirements satisfaction using the sat tree to highlight the sat outcome of each assertion in the selected requirements. 
+**Step 6**:  Display the requirements satisfaction outcome . This step displays the outcome of requirements satisfaction using the sat tree to highlight the sat outcome of each assertion in the selected requirements. 
 ![image](https://github.com/user-attachments/assets/09ab2610-1011-4686-b160-34ed4c42dc6f)
 
