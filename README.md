@@ -9,7 +9,7 @@ Given a group of interacting users and a specific privacy requirements for the g
 **Step 2**:  Configure the group under consideration. This involves generating an interaction network of users and assigning disclosure protocols to each interact between the users in the network.
 ![image](https://github.com/user-attachments/assets/cf4303b4-7c30-4f75-8431-224aff10c634)
 
-**Step 3**: Generate instances of the group privacy requirements. This step involves selecting the type of group privacy requirement to investigate (instance-based or role-base) and generating the possible instances of that requirement type. 
+**Step 3**: Generate instances of the group privacy requirements. This step involves selecting the type of group privacy requirement to investigate (i.e instance-based or role-based requirements), selecting the type of group privacy strategy (i.e. mutual, introspective or common (un)awareness) of interest and generating the possible instances of that requirement type for the selected strategy. 
 ![image](https://github.com/user-attachments/assets/e6966597-6f78-486c-9991-fa725aed8723)
 ![image](https://github.com/user-attachments/assets/30cdeb4a-7b9f-49e0-a364-baff670aa9ac)
 
